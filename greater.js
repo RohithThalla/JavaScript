@@ -18,3 +18,4 @@ console.log(greater(0,0,0));
 console.log(greater(1,2,3));
 console.log(greater('a','b','c'));
 console.log(greater('a',2,'z'));
+console.log(greater(1,2,3));
